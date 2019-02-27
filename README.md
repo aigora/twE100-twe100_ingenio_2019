@@ -6,6 +6,6 @@ Descripción breve del proyecto a realizar (2-3 frases).
 
 Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
 
-## Por definir
+## Por definir 20190227
 
 Lista de los objetivos que se persiguen con el trabajo propuesto.
